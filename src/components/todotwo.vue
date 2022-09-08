@@ -4,7 +4,6 @@
 
 <template>
   <div>
-    dev1
   </div>
 </template>
 
