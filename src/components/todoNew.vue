@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    8
+    main
   </div>
 </template>
 
